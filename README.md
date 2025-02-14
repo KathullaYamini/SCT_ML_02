@@ -35,6 +35,6 @@ The dataset `CustomerData.csv` contains demographic and purchasing information o
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/customer-segmentation.git
+git clone https://github.com/KathullaYamini/SCT_ML_02
 ```
 
